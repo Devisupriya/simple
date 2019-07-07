@@ -1,2 +1,3 @@
 creating github 
 first class for nodejs
+ learning how to update through visual studio code
