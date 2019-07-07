@@ -1,2 +1,6 @@
 creating github 
 first class for nodejs
+learning the github usage
+
+checking the branches
+
